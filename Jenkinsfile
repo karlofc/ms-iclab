@@ -1,3 +1,3 @@
-library 'pipeline@dev'
+library ('pipelines-devops-lab')
 
-pipe.call()
+ejecucion.call()
